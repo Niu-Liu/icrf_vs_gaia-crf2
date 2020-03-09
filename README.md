@@ -6,15 +6,15 @@ I upload all the related codes and results here for people who might be interest
 
 Contact: Niu Liu (liuniu@smail.nju.edu.cn)
 
-====================================================================
+------------------------------
 Systematics and accuracy of VLBI astrometry: A comparison with Gaia Data Release 2
 N.  Liu, S. B.  Lambert, Z.  Zhu, J.-C.  Liu
 A&A 634 A28 (2020)
 DOI: 10.1051/0004-6361/201936996
 
-==============
-=  Abstract  =
-==============
+-----
+Abstract  
+-----
 
 Context. The third generation of the ICRF – ICRF3 – was published in 2018. This new fundamental catalog provides radio source positions measured independently at three bands: S/X, K, and X/Ka, representing three independent radio celestial frames which altogether constitute together a multi-frequency ICRF.
 
