@@ -1,5 +1,3 @@
-Systematics and accuracy of VLBI astrometry
-
 This work study the overall properties of the ICRFs.
 
 I upload all the related codes and results here for people who might be interested.
