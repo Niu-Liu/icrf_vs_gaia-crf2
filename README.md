@@ -9,7 +9,7 @@ Systematics and accuracy of VLBI astrometry: A comparison with Gaia Data Release
 
 N.  Liu, S. B.  Lambert, Z.  Zhu, J.-C.  Liu
 
-A&A 634 A28 (2020)
+A&A, 634, A28 (2020)
 
 DOI: [10.1051/0004-6361/201936996](https://doi.org/10.1051/0004-6361/201936996)
 
